@@ -1,4 +1,4 @@
-# A1-bodu — Health Service Appointment System
+# A1-BoaoDu — Health Service Appointment System
 
 PROG2004 Object Oriented Programming — Assessment 1
 
@@ -10,7 +10,7 @@ and cancel) while preventing double-booking.
 ## Project structure
 
 ```
-A1-bodu/
+A1-BoaoDu/
 ├── src/
 │   ├── AssignmentOne.java      # main method: end-to-end demonstration
 │   ├── HealthProfessional.java # abstract base class (Part 1)
