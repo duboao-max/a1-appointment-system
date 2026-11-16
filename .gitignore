@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Java build artifacts
+build/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WakaTime and other local config
+.wakatime*
